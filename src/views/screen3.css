@@ -1,0 +1,645 @@
+.screen3-container {
+  min-height: 100vh;
+}
+.screen3-screen3 {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.screen3-text {
+  top: 125px;
+  left: 28px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.screen3-text02 {
+  top: 566px;
+  left: 61px;
+  color: rgba(13, 17, 24, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.screen3-rectangle78 {
+  top: 677px;
+  left: 67px;
+  width: 256px;
+  height: 40px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.screen3-text07 {
+  top: 684px;
+  left: 147px;
+  color: rgba(248, 248, 248, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Lora;
+  font-weight: 700;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.screen3-rectangle73 {
+  top: 520px;
+  left: 233px;
+  width: 32px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.screen3-rectangle74 {
+  top: 520px;
+  left: 199px;
+  width: 19px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.screen3-rectangle75 {
+  top: 520px;
+  left: 178px;
+  width: 18px;
+  height: 6px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.screen3-pic3 {
+  top: 189px;
+  left: 27px;
+  width: 340px;
+  height: 305.99932861328125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.screen3-vector {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 306px;
+  opacity: 0.18;
+  position: absolute;
+}
+.screen3-vector01 {
+  top: 234.84393310546875px;
+  left: 19.369140625px;
+  width: 62px;
+  height: 16px;
+  position: absolute;
+}
+.screen3-vector02 {
+  top: 240.2768096923828px;
+  left: 29.955322265625px;
+  width: 73px;
+  height: 11px;
+  position: absolute;
+}
+.screen3-vector03 {
+  top: 222.28271484375px;
+  left: 175.34228515625px;
+  width: 84px;
+  height: 31px;
+  position: absolute;
+}
+.screen3-vector04 {
+  top: 222.28271484375px;
+  left: 175.34228515625px;
+  width: 84px;
+  height: 31px;
+  position: absolute;
+}
+.screen3-vector05 {
+  top: 206.05963134765625px;
+  left: 25.09130859375px;
+  width: 129px;
+  height: 32px;
+  position: absolute;
+}
+.screen3-vector06 {
+  top: 137.50155639648438px;
+  left: 128.122802734375px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.screen3-vector07 {
+  top: 202.78211975097656px;
+  left: 55.353271484375px;
+  width: 32px;
+  height: 15px;
+  position: absolute;
+}
+.screen3-vector08 {
+  top: 200.2955780029297px;
+  left: 96.539794921875px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+.screen3-vector09 {
+  top: 200.2955780029297px;
+  left: 96.539794921875px;
+  width: 43px;
+  height: 25px;
+  position: absolute;
+}
+.screen3-vector10 {
+  top: 132.28680419921875px;
+  left: 83.196533203125px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+}
+.screen3-vector11 {
+  top: 138.71514892578125px;
+  left: 109.048095703125px;
+  width: 23px;
+  height: 31px;
+  position: absolute;
+}
+.screen3-vector12 {
+  top: 149.9444580078125px;
+  left: 85.19921875px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.screen3-vector13 {
+  top: 129.52882385253906px;
+  left: 78.330078125px;
+  width: 56px;
+  height: 84px;
+  position: absolute;
+}
+.screen3-vector14 {
+  top: 170.7503204345703px;
+  left: 78.3271484375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.screen3-vector15 {
+  top: 166.9361572265625px;
+  left: 85.265625px;
+  width: 24px;
+  height: 46px;
+  position: absolute;
+}
+.screen3-vector16 {
+  top: 204.3986358642578px;
+  left: 213.023193359375px;
+  width: 21px;
+  height: 24px;
+  position: absolute;
+}
+.screen3-vector17 {
+  top: 68.62724304199219px;
+  left: 220.84901428222656px;
+  width: 5px;
+  height: 136px;
+  position: absolute;
+}
+.screen3-vector18 {
+  top: 48.642364501953125px;
+  left: 213.4585418701172px;
+  width: 21px;
+  height: 22px;
+  position: absolute;
+}
+.screen3-vector19 {
+  top: 86.802978515625px;
+  left: 223.83920288085938px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.screen3-vector20 {
+  top: 76.07424926757812px;
+  left: 237.8819580078125px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
+}
+.screen3-vector21 {
+  top: 93.81871032714844px;
+  left: 198.77224731445312px;
+  width: 27px;
+  height: 57px;
+  position: absolute;
+}
+.screen3-vector22 {
+  top: 106.57746887207031px;
+  left: 209.26646423339844px;
+  width: 16px;
+  height: 18px;
+  position: absolute;
+}
+.screen3-vector23 {
+  top: 113.36292266845703px;
+  left: 118.650390625px;
+  width: 27px;
+  height: 30px;
+  position: absolute;
+}
+.screen3-vector24 {
+  top: 132.4373779296875px;
+  left: 125.73974609375px;
+  width: 4px;
+  height: 9px;
+  position: absolute;
+}
+.screen3-vector25 {
+  top: 134.8290252685547px;
+  left: 98.919921875px;
+  width: 16px;
+  height: 36px;
+  position: absolute;
+}
+.screen3-vector26 {
+  top: 144.7173309326172px;
+  left: 127.762939453125px;
+  width: 18px;
+  height: 37px;
+  position: absolute;
+}
+.screen3-vector27 {
+  top: 148.7143096923828px;
+  left: 121.924560546875px;
+  width: 18px;
+  height: 32px;
+  position: absolute;
+}
+.screen3-vector28 {
+  top: 168.9989013671875px;
+  left: 100.765625px;
+  width: 13px;
+  height: 44px;
+  position: absolute;
+}
+.screen3-vector29 {
+  top: 205.1144561767578px;
+  left: 102.097412109375px;
+  width: 33px;
+  height: 26px;
+  position: absolute;
+}
+.screen3-vector30 {
+  top: 165.80670166015625px;
+  left: 138.416748046875px;
+  width: 30px;
+  height: 21px;
+  position: absolute;
+}
+.screen3-vector31 {
+  top: 160.080078125px;
+  left: 154.53076171875px;
+  width: 25px;
+  height: 20px;
+  position: absolute;
+}
+.screen3-vector32 {
+  top: 200.15785217285156px;
+  left: 76.16943359375px;
+  width: 27px;
+  height: 26px;
+  position: absolute;
+}
+.screen3-vector33 {
+  top: 130.68357849121094px;
+  left: 106.254638671875px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.screen3-vector34 {
+  top: 158.43698120117188px;
+  left: 167.450927734375px;
+  width: 25px;
+  height: 32px;
+  position: absolute;
+}
+.screen3-vector35 {
+  top: 160.71578979492188px;
+  left: 168.008544921875px;
+  width: 25px;
+  height: 29px;
+  position: absolute;
+}
+.screen3-vector36 {
+  top: 159.2357635498047px;
+  left: 170.004150390625px;
+  width: 4px;
+  height: 12px;
+  position: absolute;
+}
+.screen3-vector37 {
+  top: 160.45274353027344px;
+  left: 166.466552734375px;
+  width: 6px;
+  height: 7px;
+  position: absolute;
+}
+.screen3-vector38 {
+  top: 177.0508270263672px;
+  left: 185.117431640625px;
+  width: 21px;
+  height: 7px;
+  position: absolute;
+}
+.screen3-vector39 {
+  top: 178.43927001953125px;
+  left: 185.225830078125px;
+  width: 20px;
+  height: 6px;
+  position: absolute;
+}
+.screen3-vector40 {
+  top: 177.550537109375px;
+  left: 206.24365234375px;
+  width: 11px;
+  height: 47px;
+  opacity: 0.18;
+  position: absolute;
+}
+.screen3-vector41 {
+  top: 199.0447540283203px;
+  left: 23.19873046875px;
+  width: 52px;
+  height: 50px;
+  position: absolute;
+}
+.screen3-vector42 {
+  top: 232.6825408935547px;
+  left: 71.913330078125px;
+  width: 31px;
+  height: 17px;
+  position: absolute;
+}
+.screen3-vector43 {
+  top: 232.6825408935547px;
+  left: 71.913330078125px;
+  width: 31px;
+  height: 17px;
+  position: absolute;
+}
+.screen3-vector44 {
+  top: 239.96128845214844px;
+  left: 73.162353515625px;
+  width: 10px;
+  height: 7px;
+  position: absolute;
+}
+.screen3-vector45 {
+  top: 234.08148193359375px;
+  left: 72.14990234375px;
+  width: 10px;
+  height: 6px;
+  position: absolute;
+}
+.screen3-frame4829869arrownextrighticon2 {
+  top: 711px;
+  left: 260px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.screen3-layer2 {
+  top: 8.704201698303223px;
+  left: 2.059999942779541px;
+  width: 27.980758666992188px;
+  height: 14.586590766906738px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.screen3-vector46 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 15px;
+  position: absolute;
+}
+.screen3-home-indicator {
+  top: 828px;
+  left: 128px;
+  width: 134px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 100px;
+}
+.screen3-status-bari-phone13 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 47px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.screen3-left-side {
+  top: 14px;
+  left: 27px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.screen3-frame-status-bartime {
+  top: 0px;
+  left: 0px;
+  width: 54px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 24px;
+}
+.screen3-text09 {
+  top: 1px;
+  color: rgba(0, 0, 0, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  align-self: auto;
+  font-style: Semibold;
+  text-align: center;
+  font-family: SF Pro Text;
+  font-weight: 600;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.screen3-right-side {
+  top: 19px;
+  left: 286px;
+  width: 77.40119171142578px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.screen3-battery {
+  top: 0px;
+  left: 50px;
+  width: 27.401193618774414px;
+  height: 13px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.screen3-outline {
+  top: 0px;
+  left: 0px;
+  width: 25px;
+  height: 13px;
+  opacity: 0.35;
+  position: absolute;
+}
+.screen3-battery-end {
+  top: 5px;
+  left: 26px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.screen3-fill {
+  top: 2px;
+  left: 2px;
+  width: 21px;
+  height: 9px;
+  position: absolute;
+}
+.screen3-wifi {
+  top: 1px;
+  left: 26px;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+}
+.screen3-icon-mobile-signal {
+  top: 1px;
+  left: 0px;
+  width: 18px;
+  height: 12px;
+  position: absolute;
+}
